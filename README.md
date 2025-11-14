@@ -1,2 +1,0 @@
-# agecal-privacypolicy
-agecal-privacypolicy
